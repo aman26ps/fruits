@@ -1,12 +1,7 @@
 [
   {
     "id": 1,
-    "fruit": "apple",
-    "color": "red"
-  },
-  {
-    "id": 2,
-    "fruit": "banana",
-    "color": "yellow"
+    "fruit": "kiwi",
+    "color": "green"
   }
 ]
